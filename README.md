@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I'm Satish
 
-<!--
-**satishchawali/satishchawali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy turning ideas into **working software** — from  
+🤖 machine learning models to ⚙️ backend APIs and 🌐 full-stack apps.
 
-Here are some ideas to get you started:
+Currently learning, building, and experimenting every day 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ What I Do
+- Build **AI & ML projects** with real-world use cases  
+- Develop **secure backend systems & APIs**  
+- Create **full-stack applications** with clean architecture  
+- Love solving problems & learning new tech  
+
+---
+
+## 🔧 Tech I Work With
+```txt
+Python • Java • JavaScript  
+TensorFlow • PyTorch • Scikit-learn  
+React • FastAPI • Spring Boot  
+MongoDB • PostgreSQL • Docker • Git
